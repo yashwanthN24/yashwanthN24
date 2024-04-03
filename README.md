@@ -1,5 +1,6 @@
 
-![Alt text](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)
+<img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="Alt text" width="350" height="200">
+
 
 # Hi there! 👋 I'm Yashwanth
 
