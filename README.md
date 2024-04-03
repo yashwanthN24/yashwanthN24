@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋 I'm Yashwanth
 
-<!--
-**yashwanthN24/yashwanthN24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a 3rd-year student pursuing a Bachelor's in Computer Science and Engineering at [Your University]. I have intermediate-level knowledge in various programming languages including C, C++, Java, and Python. Currently, I am focusing on Data Structures and Algorithms using Java, along with web development using HTML, CSS, JavaScript, MongoDB, Express.js, Node.js, and also delving into mobile app development with Flutter.
 
-Here are some ideas to get you started:
+### Skills
+- Programming Languages: C, C++, Java, Python
+- Web Development: HTML, CSS, JavaScript, MongoDB, Express.js, Node.js
+- Mobile App Development: Flutter
+- Data Structures and Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Youtube Clone(https://yashyoutubeclone.netlify.app/): Full Stack Project 
+- Amazon Price Tracker(https://github.com/yashwanthN24/AmazonNotifier): Python Project 
+- TODO List(https://github.com/yashwanthN24/TODO-LIST-flask-website): Flask TODO List website project 
+
+### Contact Me
+- Email: [yashwanthnaddana2002@gmail,com](mailto:yashwanthnaddana2002@gmail.com)
+- LinkedIn: [Yashwanth Naddana](https://www.linkedin.com/in/yashwanth-naddana)
+
+### Let's Connect!
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat! 😊
+
+![Alt text](https://placekitten.com/200/300 "Optional Title")
