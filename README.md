@@ -1,3 +1,6 @@
+
+![Alt text](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)
+
 # Hi there! 👋 I'm Yashwanth
 
 ### About Me
@@ -21,4 +24,4 @@ I am a 3rd-year student pursuing a Bachelor's in Computer Science and Engineerin
 ### Let's Connect!
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat! 😊
 
-![Alt text](https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif)
+
