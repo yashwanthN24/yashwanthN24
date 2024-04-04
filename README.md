@@ -49,7 +49,7 @@ I am a 3rd-year student pursuing a Bachelor's in Computer Science and Engineerin
 ### Contact Me
 - Email: [yashwanthnaddana2002@gmail,com](mailto:yashwanthnaddana2002@gmail.com)
 - LinkedIn: [Yashwanth Naddana](https://www.linkedin.com/in/yashwanth-naddana)  <span align="left">
-<a href="https://linkedin.com/in/yashwanth naddana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth naddana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashwanth-naddana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth naddana" height="30" width="40" /></a>
 </span>
 
 ### Let's Connect!
