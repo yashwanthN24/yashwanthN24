@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Yashwanth
 
-<span align="right"> <img src="https://komarev.com/ghpvc/?username=yashwanth24&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth24" /> </span>
+<!--<span align="right"> <img src="https://komarev.com/ghpvc/?username=yashwanth24&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth24" /> </span>-->
 
 
 
@@ -35,10 +35,7 @@ I am a 3rd-year student pursuing a Bachelor's in Computer Science and Engineerin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashwanthN24&theme=react&hide_border=false)<br/><br>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=yashwanthN24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### Projects
