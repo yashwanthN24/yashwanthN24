@@ -2,7 +2,7 @@
 <img align="center" alt = "main-image" with = "500" src = "https://i.pinimg.com/originals/2d/e8/82/2de882cd4f3992ada3d609e3a183f7a4.jpg" >
 
 
-# # Hi there! 👋 I'm Yashwanth  a passionate software developer with a love for building innovative solutions. I thrive on learning new technologies and sharing knowledge with the community.
+#### Hi there! 👋 I'm Yashwanth  a passionate software developer with a love for building innovative solutions. I thrive on learning new technologies and sharing knowledge with the community.
 
 <!--<span align="right"> <img src="https://komarev.com/ghpvc/?username=yashwanth24&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth24" /> </span>-->
 
