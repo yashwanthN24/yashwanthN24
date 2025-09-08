@@ -9,8 +9,7 @@
 
 
 ### About Me
-Currently, I'm diving deep into the world of software development, focusing on backend technologies such as NestJS and TypeScript. I enjoy working on projects that challenge my skills and allow me to grow. I don't have a specific location or company listed yet, but I'm open to opportunities!
-I have a strong knowledge in Frontend , Backend and have expertise in deploying my backend and frontend on my own have a good picture of the devops side as well.
+Currently, I'm diving deep into the world of software development, focusing on backend technologies such as NestJS and TypeScript. I enjoy working on projects that challenge my skills and allow me to grow. Worked at Elocity and learnt a lot of real things while building in backend as well as in frontend and deveops fields.Now I have a strong knowledge in Frontend , Backend and have expertise in deploying my backend and frontend on my own have a good picture of the devops side as well.
 
 <img align= "right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Alt text" width="300" height="200" style="margin-right: 10px; margin-left: 20px;">
 
