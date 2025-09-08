@@ -2,14 +2,15 @@
 <img align="center" alt = "main-image" with = "500" src = "https://i.pinimg.com/originals/2d/e8/82/2de882cd4f3992ada3d609e3a183f7a4.jpg" >
 
 
-# Hi there! 👋 I'm Yashwanth
+# Hi there! 👋 I'm Yashwanth  a passionate software developer with a love for building innovative solutions. I thrive on learning new technologies and sharing knowledge with the community.
 
 <!--<span align="right"> <img src="https://komarev.com/ghpvc/?username=yashwanth24&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth24" /> </span>-->
 
 
 
 ### About Me
-I am a 3rd-year student pursuing a Bachelor's in Computer Science and Engineering at Dr Ambedkar Institute of Technology . I have intermediate-level knowledge in various programming languages including C, C++, Java, and Python. Currently, I am focusing on Data Structures and Algorithms using Java, along with web development using HTML, CSS, JavaScript, MongoDB, Express.js, Node.js, and also delving into mobile app development with Flutter.
+Currently, I'm diving deep into the world of software development, focusing on backend technologies such as NestJS and TypeScript. I enjoy working on projects that challenge my skills and allow me to grow. I don't have a specific location or company listed yet, but I'm open to opportunities!
+I have a strong knowledge in Frontend , Backend and have expertise in deploying my backend and frontend on my own have a good picture of the devops side as well.
 
 <img align= "right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Alt text" width="300" height="200" style="margin-right: 10px; margin-left: 20px;">
 
