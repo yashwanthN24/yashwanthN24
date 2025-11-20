@@ -16,7 +16,7 @@ Currently, I'm diving deep into the world of software development, focusing on b
 
 ### Skills
 - Programming Languages: C, C++, Java, Python
-- Web Development: HTML, CSS, JavaScript, MongoDB, Express.js, Node.js
+- Web Development: HTML, CSS, JavaScript, MongoDB, Express.js, Node.js , React.js , NestJS , Next.js , SpringBoot
 - Mobile App Development: Flutter
 - Data Structures and Algorithms
 
@@ -30,8 +30,8 @@ Currently, I'm diving deep into the world of software development, focusing on b
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthN24&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>
-![](https://github-readme-stats.vercel.app/api?username=yashwanthN24&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthN24&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
+![](https://github-readme-stats.vercel.app/api?username=yashwanthN24&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashwanthN24&theme=react&hide_border=false)<br/><br>
 
 
