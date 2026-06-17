@@ -73,15 +73,15 @@ Currently, I'm diving deep into the world of software development, focusing on b
   <img src="https://cdn.simpleicons.org/qdrant" width="48" alt="Qdrant" />
 </p>
 
-**Agent Frameworks:** LangChain • LangGraph • CrewAI • AutoGen • OpenAI Agents SDK • Anthropic Agent SDK
-
-**LLM Serving & Inference:** Ollama • LM Studio • Groq • OpenRouter
-
-**AI Systems:** RAG • MCP • Vector Databases
-
-**Model Training:** Fine-Tuning • LoRA Fine-Tuning • Supervised Fine-Tuning • Quantization
-
-**Platforms:** Hugging Face
+  **Agent Frameworks:** LangChain • LangGraph • CrewAI • AutoGen • OpenAI Agents SDK • Anthropic Agent SDK
+  
+  **LLM Serving & Inference:** Ollama • LM Studio • Groq • OpenRouter
+  
+  **AI Systems:** RAG • MCP • Vector Databases
+  
+  **Model Training:** Fine-Tuning • LoRA Fine-Tuning • Supervised Fine-Tuning • Quantization
+  
+  **Platforms:** Hugging Face
 
 ---
 
